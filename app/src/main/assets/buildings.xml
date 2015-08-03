@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <building>
+        <id> A1 </id>
+        <name type="text"> James Watt South Building, School of Engineering, Aerospace Engineering, Mechanical Engineering, Print Unit (Gilmorehill) </name>
+        <x_coord> 0.65 </x_coord>
+        <y_coord> 0.6885 </y_coord>
+        <gps_x> 55.871021 </gps_x>
+        <gps_y> -4.286817 </gps_y>
+    </building>
+    <building>
+        <id> A2 </id>
+        <name type="text"> James Watt North Building, Computing Service </name>
+        <x_coord> 0.6689 </x_coord>
+        <y_coord> 0.6357 </y_coord>
+        <gps_x> 55.871447 </gps_x>
+        <gps_y> -4.286353 </gps_y>
+    </building>
+    <building>
+        <id> A3 </id>
+        <name type="text"> Thomson Building, Anatomy </name>
+        <x_coord> 0.6379 </x_coord>
+        <y_coord> 0.6528 </y_coord>
+        <gps_x> 55.871499 </gps_x>
+        <gps_y> -4.286943 </gps_y>
+    </building>
+    <building>
+        <id> A4 </id>
+        <name type="text"> Pearce Lodge, Safety and Environmental Protection Services </name>
+        <x_coord> 0.6637 </x_coord>
+        <y_coord> 0.6142 </y_coord>
+        <gps_x> 55.871901 </gps_x>
+        <gps_y> -4.285926 </gps_y>
+    </building>
+    <building>
+        <id> A5 </id>
+        <name type="text"> East Quadrangle </name>
+        <x_coord> 0.5861 </x_coord>
+        <y_coord> 0.678 </y_coord>
+        <gps_x> 55.871361 </gps_x>
+        <gps_y> -4.287922 </gps_y>
+    </building>
+    <building>
+        <id> A6 </id>
+        <name type="text"> West Quadrangle </name>
+        <x_coord> 0.5276 </x_coord>
+        <y_coord> 0.678 </y_coord>
+        <gps_x> 55.871501 </gps_x>
+        <gps_y> -4.289209 </gps_y>
+    </building>
+    <building>
+        <id> A7 </id>
+        <name type="text"> Hunterian Museum, Kelvin Gallery </name>
+        <x_coord> 0.5275 </x_coord>
+        <y_coord> 0.6485 </y_coord>
+        <gps_x> 55.871841 </gps_x>
+        <gps_y> -4.28911 </gps_y>
+    </building>
+    <building>
+        <id> A8 </id>
+        <name type="text"> Chapel, Fore Hall (adjoining Chapel) </name>
+        <x_coord> 0.4896 </x_coord>
+        <y_coord> 0.6771 </y_coord>
+        <gps_x> 55.871606 </gps_x>
+        <gps_y> -4.289625 </gps_y>
+    </building>
+    <building>
+        <id> A9 </id>
+        <name type="text"> Business School - West Quadrangle </name>
+        <x_coord> 0.4896 </x_coord>
+        <y_coord> 0.6528 </y_coord>
+        <gps_x> 55.871883 </gps_x>
+        <gps_y> -4.289331 </gps_y>
+    </building>
+    <building>
+        <id> A9 </id>
+        <name type="text"> Hospitality Services - 1a The Square </name>
+        <x_coord> 0.4896 </x_coord>
+        <y_coord> 0.6528 </y_coord>
+        <gps_x> 55.871883 </gps_x>
+        <gps_y> -4.289331 </gps_y>
+    </building>
+    <building>
+        <id> A10 </id>
+        <name type="text"> Carnegie Room, Randolph Hall </name>
+        <x_coord> 0.55 </x_coord>
+        <y_coord> 0.7028 </y_coord>
+        <gps_x> 55.871112 </gps_x>
+        <gps_y> -4.28866 </gps_y>
+    </building>
+    <building>
+        <id> A10 </id>
+        <name type="text"> Court Office, Equality and Diversity Unit, Human Resources, Management Information Services, Planning Office, Principal's Office, Purchasing Office, Rector's Office, Senate Office, Staff Development Service, Telephone Exchange </name>
+        <x_coord> 0.55 </x_coord>
+        <y_coord> 0.7028 </y_coord>
+        <gps_x> 55.871112 </gps_x>
+        <gps_y> -4.28866 </gps_y>
+    </building>
+    <building>
+        <id> A11 </id>
+        <name type="text"> Visitor Centre </name>
+        <x_coord> 0.5448 </x_coord>
+        <y_coord> 0.65 </y_coord>
+        <gps_x> 55.871826 </gps_x>
+        <gps_y> -4.288719 </gps_y>
+    </building>
+    <building>
+        <id> A12 </id>
+        <name type="text"> Bedellus Office, Concert Hall, Robing Room (enter via Hunterian Museum stair) </name>
+        <x_coord> 0.5637 </x_coord>
+        <y_coord> 0.65 </y_coord>
+        <gps_x> 55.871775 </gps_x>
+        <gps_y> -4.288183 </gps_y>
+    </building>
+    <building>
+        <id> A13 </id>
+        <name type="text"> Bute Hall </name>
+        <x_coord> 0.55 </x_coord>
+        <y_coord> 0.6685 </y_coord>
+        <gps_x> 55.871543 </gps_x>
+        <gps_y> -4.288478 </gps_y>
+    </building>
+    <building>
+        <id> A14 </id>
+        <name type="text"> Hunter Halls </name>
+        <x_coord> 0.5791 </x_coord>
+        <y_coord> 0.65 </y_coord>
+        <gps_x> 55.871669 </gps_x>
+        <gps_y> -4.28807 </gps_y>
+    </building>
+    <building>
+        <id> A15 </id>
+        <name type="text"> Hunterian Museum </name>
+        <x_coord> 0.5931 </x_coord>
+        <y_coord> 0.65 </y_coord>
+        <gps_x> 55.871666 </gps_x>
+        <gps_y> -4.287769 </gps_y>
+    </building>
+    <building>
+        <id> A16 </id>
+        <name type="text"> Finance Office </name>
+        <x_coord> 0.5931 </x_coord>
+        <y_coord> 0.6914 </y_coord>
+        <gps_x> 55.871125 </gps_x>
+        <gps_y> -4.28792 </gps_y>
+    </building>
+    <building>
+        <id> A18 </id>
+        <name type="text"> Principal's Lodgings - 12 The Square </name>
+        <x_coord> 0.4551 </x_coord>
+        <y_coord> 0.7114 </y_coord>
+        <gps_x> 55.871353 </gps_x>
+        <gps_y> -4.290414 </gps_y>
+    </building>
+    <building>
+        <id> A19 </id>
+        <name type="text"> Stair Building, School of Law, Research and Enterprise, 10-11 The Square </name>
+        <x_coord> 0.4413 </x_coord>
+        <y_coord> 0.6757 </y_coord>
+        <gps_x> 55.87169 </gps_x>
+        <gps_y> -4.290693 </gps_y>
+    </building>
+    <building>
+        <id> A20 </id>
+        <name type="text"> Corporate Communications - 1 The Square </name>
+        <x_coord> 0.4706 </x_coord>
+        <y_coord> 0.6271 </y_coord>
+        <gps_x> 55.872262 </gps_x>
+        <gps_y> -4.290071 </gps_y>
+    </building>
+    <building>
+        <id> A20 </id>
+        <name type="text"> Development and Alumni Office - 2 The Square </name>
+        <x_coord> 0.4706 </x_coord>
+        <y_coord> 0.6271 </y_coord>
+        <gps_x> 55.872262 </gps_x>
+        <gps_y> -4.290071 </gps_y>
+    </building>
+    <building>
+        <id> A20 </id>
+        <name type="text"> Conference and Visitor Services - 3 The Square </name>
+        <x_coord> 0.4706 </x_coord>
+        <y_coord> 0.6271 </y_coord>
+        <gps_x> 55.872262 </gps_x>
+        <gps_y> -4.290071 </gps_y>
+    </building>
+    <building>
+        <id> A20 </id>
+        <name type="text"> Theology and Religious Studies - 4 The Square </name>
+        <x_coord> 0.4706 </x_coord>
+        <y_coord> 0.6271 </y_coord>
+        <gps_x> 55.872262 </gps_x>
+        <gps_y> -4.290071 </gps_y>
+    </building>
+    <building>
+        <id> A21 </id>
+        <name type="text"> Central Services, Main Gatehouse (Security) </name>
+        <x_coord> 0.4724 </x_coord>
+        <y_coord> 0.6142 </y_coord>
+        <gps_x> 55.872431 </gps_x>
+        <gps_y> -4.289357 </gps_y>
+    </building>
+    <building>
+        <id> A22 </id>
+        <name type="text"> John McIntyre Building, Students' Representative Council (SRC) </name>
+        <x_coord> 0.5172 </x_coord>
+        <y_coord> 0.6171 </y_coord>
+        <gps_x> 55.872172 </gps_x>
+        <gps_y> -4.288773 </gps_y>
+    </building>
+    <building>
+        <id> A24 </id>
+        <name type="text"> Accounting and Finance, Chaplaincy </name>
+        <x_coord> 0.4889 </x_coord>
+        <y_coord> 0.695 </y_coord>
+        <gps_x> 55.871335 </gps_x>
+        <gps_y> -4.289754 </gps_y>
+    </building>
+    <building>
+        <id> A25 </id>
+        <name type="text"> East Quad. Lecture Theatre, School of Geographical and Earth Sciences </name>
+        <x_coord> 0.6155 </x_coord>
+        <y_coord> 0.672 </y_coord>
+        <gps_x> 55.871419 </gps_x>
+        <gps_y> -4.287308 </gps_y>
+    </building>
+    <building>
+        <id> B1 </id>
+        <name type="text"> Davidson Building </name>
+        <x_coord> 0.399 </x_coord>
+        <y_coord> 0.751 </y_coord>
+        <gps_x> 55.870947 </gps_x>
+        <gps_y> -4.291461 </gps_y>
+    </building>
+    <building>
+        <id> B2 </id>
+        <name type="text"> West Medical Building </name>
+        <x_coord> 0.319 </x_coord>
+        <y_coord> 0.75 </y_coord>
+        <gps_x> 55.870778 </gps_x>
+        <gps_y> -4.292877 </gps_y>
+    </building>
+    <building>
+        <id> B3 </id>
+        <name type="text"> Graham Kerr Building, Institute of Biodiversity, Animal Health &amp; Comparative Medicine, Zoology Museum </name>
+        <x_coord> 0.272 </x_coord>
+        <y_coord> 0.7114 </y_coord>
+        <gps_x> 55.871416 </gps_x>
+        <gps_y> -4.292856 </gps_y>
+    </building>
+    <building>
+        <id> B4 </id>
+        <name type="text"> Joseph Black Building, School of Chemistry, Forensic Medicine &amp; Science (School of Medicine) </name>
+        <x_coord> 0.252 </x_coord>
+        <y_coord> 0.666 </y_coord>
+        <gps_x> 55.872055 </gps_x>
+        <gps_y> -4.293167 </gps_y>
+    </building>
+    <building>
+        <id> B5 </id>
+        <name type="text"> Officer Training Corps, Drill Hall, University Place </name>
+        <x_coord> 0.284 </x_coord>
+        <y_coord> 0.627 </y_coord>
+        <gps_x> 55.8725 </gps_x>
+        <gps_y> -4.292641 </gps_y>
+    </building>
+    <building>
+        <id> B6 </id>
+        <name type="text"> Central Room Bookings, Estates And Buildings Office </name>
+        <x_coord> 0.31 </x_coord>
+        <y_coord> 0.6474 </y_coord>
+        <gps_x> 55.872175 </gps_x>
+        <gps_y> -4.292158 </gps_y>
+    </building>
+    <building>
+        <id> B7 </id>
+        <name type="text"> Bower Building, School of Life Sciences </name>
+        <x_coord> 0.347 </x_coord>
+        <y_coord> 0.62856 </y_coord>
+        <gps_x> 55.872398 </gps_x>
+        <gps_y> -4.291461 </gps_y>
+    </building>
+    <building>
+        <id> B8 </id>
+        <name type="text"> Kelvin Building, School of Physics &amp; Astronomy, Radiation Protection Service </name>
+        <x_coord> 0.36 </x_coord>
+        <y_coord> 0.691 </y_coord>
+        <gps_x> 55.87188 </gps_x>
+        <gps_y> -4.291644 </gps_y>
+    </building>
+    <building>
+        <id> B9 </id>
+        <name type="text"> Western Infirmary Lecture Theatre </name>
+        <x_coord> 0.197 </x_coord>
+        <y_coord> 0.698 </y_coord>
+        <gps_x> 55.871964 </gps_x>
+        <gps_y> -4.294176 </gps_y>
+    </building>
+    <building>
+        <id> B10 </id>
+        <name type="text"> Wolfson Building, School of Life Sciences </name>
+        <x_coord> 0.3593 </x_coord>
+        <y_coord> 0.75 </y_coord>
+        <gps_x> 55.870863 </gps_x>
+        <gps_y> -4.292137 </gps_y>
+    </building>
+    <building>
+        <id> C1 </id>
+        <name type="text"> Anderson College, Glasgow International College </name>
+        <x_coord> 0.17 </x_coord>
+        <y_coord> 0.79 </y_coord>
+        <gps_x> 55.870321 </gps_x>
+        <gps_y> -4.296632 </gps_y>
+    </building>
+    <building>
+        <id> C2 </id>
+        <name type="text"> Robertson Building, Dermatology (School of Medicine), Glasgow International College </name>
+        <x_coord> 0.161 </x_coord>
+        <y_coord> 0.7624 </y_coord>
+        <gps_x> 55.870562 </gps_x>
+        <gps_y> -4.296514 </gps_y>
+    </building>
+    <building>
+        <id> C3 </id>
+        <name type="text"> Pontecorvo Building </name>
+        <x_coord> 0.1454 </x_coord>
+        <y_coord> 0.801 </y_coord>
+        <gps_x> 55.870158 </gps_x>
+        <gps_y> -4.296708 </gps_y>
+    </building>
+    <building>
+        <id> C5 </id>
+        <name type="text"> Western Infirmary, Western Clinical Research and Education Centre </name>
+        <x_coord> 0.122 </x_coord>
+        <y_coord> 0.673 </y_coord>
+        <gps_x> 55.872271 </gps_x>
+        <gps_y> -4.295864 </gps_y>
+    </building>
+    <building>
+        <id> C6 </id>
+        <name type="text"> Western Infirmary, Gardiner Institute </name>
+        <x_coord> 0.1116 </x_coord>
+        <y_coord> 0.6457 </y_coord>
+        <gps_x> 55.872542 </gps_x>
+        <gps_y> -4.296042 </gps_y>
+    </building>
+    <building>
+        <id> C7 </id>
+        <name type="text"> Archive Services, 13 Thurso Street </name>
+        <x_coord> 0.1818 </x_coord>
+        <y_coord> 0.8855 </y_coord>
+        <gps_x> 55.869249 </gps_x>
+        <gps_y> -4.29719 </gps_y>
+    </building>
+    <building>
+        <id> C8 </id>
+        <name type="text"> Wolfson Medical School Building, College of Medical, Veterinary And Life Sciences, School of Medicine </name>
+        <x_coord> 0.2474 </x_coord>
+        <y_coord> 0.59 </y_coord>
+        <gps_x> 55.873066 </gps_x>
+        <gps_y> -4.293339 </gps_y>
+    </building>
+    <building>
+        <id> C9 </id>
+        <name type="text"> Centre for Drugs Misuse Research, 89 Dumbarton Road </name>
+        <x_coord> 0.109 </x_coord>
+        <y_coord> 0.8315 </y_coord>
+        <gps_x> 55.869906 </gps_x>
+        <gps_y> -4.298016 </gps_y>
+    </building>
+    <building>
+        <id> C10 </id>
+        <name type="text"> Archive Services, 13 Thurso Street </name>
+        <x_coord> 0.1324 </x_coord>
+        <y_coord> 0.8509 </y_coord>
+        <gps_x> 55.869683 </gps_x>
+        <gps_y> -4.29777 </gps_y>
+    </building>
+    <building>
+        <id> C11 </id>
+        <name type="text"> McGregor Building, Western Infirmary </name>
+        <x_coord> 0.1455 </x_coord>
+        <y_coord> 0.635 </y_coord>
+        <gps_x> 55.8724673 </gps_x>
+        <gps_y> -4.2952725 </gps_y>
+    </building>
+    <building>
+        <id> C12 </id>
+        <name type="text"> BHF Glasgow Cardiovascular Research Centre, Institute of Cardiovascular And Medical Sciences, University Place </name>
+        <x_coord> 0.145 </x_coord>
+        <y_coord> 0.5842 </y_coord>
+        <gps_x> 55.873036 </gps_x>
+        <gps_y> -4.294927 </gps_y>
+    </building>
+    <building>
+        <id> C13 </id>
+        <name type="text"> Sir Graeme Davies Building, Biomedical Research Centre, Institute of Infection, Immunity And Inflammation, University Place </name>
+        <x_coord> 0.1775 </x_coord>
+        <y_coord> 0.5655 </y_coord>
+        <gps_x> 55.873313 </gps_x>
+        <gps_y> -4.294208 </gps_y>
+    </building>
+    <building>
+        <id> D1 </id>
+        <name type="text"> Boyd Orr Building, Mail Room, College of Science and Engineering </name>
+        <x_coord> 0.2549 </x_coord>
+        <y_coord> 0.55 </y_coord>
+        <gps_x> 55.873589 </gps_x>
+        <gps_y> -4.292577 </gps_y>
+    </building>
+    <building>
+        <id> D2 </id>
+        <name type="text"> Gregory Building, Archaeology </name>
+        <x_coord> 0.233 </x_coord>
+        <y_coord> 0.4942 </y_coord>
+        <gps_x> 55.874221 </gps_x>
+        <gps_y> -4.29291 </gps_y>
+    </building>
+    <building>
+        <id> D3 </id>
+        <name type="text"> Queen Margaret Union, 22 University Gardens </name>
+        <x_coord> 0.32686 </x_coord>
+        <y_coord> 0.53 </y_coord>
+        <gps_x> 55.87377 </gps_x>
+        <gps_y> -4.291525 </gps_y>
+    </building>
+    <building>
+        <id> D4 </id>
+        <name type="text"> Maths Building, School of Mathematics &amp; Statistics </name>
+        <x_coord> 0.3191 </x_coord>
+        <y_coord> 0.5671 </y_coord>
+        <gps_x> 55.873337 </gps_x>
+        <gps_y> -4.29189 </gps_y>
+    </building>
+    <building>
+        <id> D5 </id>
+        <name type="text"> Alexander Stone Building, College of Arts (ArtsLab), 16 University Gardens </name>
+        <x_coord> 0.3615 </x_coord>
+        <y_coord> 0.5357 </y_coord>
+        <gps_x> 55.873517 </gps_x>
+        <gps_y> -4.291021 </gps_y>
+    </building>
+    <building>
+        <id> D6 </id>
+        <name type="text"> Hetherington House, 13 University Gardens </name>
+        <x_coord> 0.3605 </x_coord>
+        <y_coord> 0.5928 </y_coord>
+        <gps_x> 55.872903 </gps_x>
+        <gps_y> -4.291182 </gps_y>
+    </building>
+    <building>
+        <id> D7 </id>
+        <name type="text"> George Service House, HATII - College of Arts </name>
+        <x_coord> 0.3773 </x_coord>
+        <y_coord> 0.5928 </y_coord>
+        <gps_x> 55.872843 </gps_x>
+        <gps_y> -4.291144 </gps_y>
+    </building>
+    <building>
+        <id> D8 </id>
+        <name type="text"> Adam Smith Building, School of Social and Political Sciences, Economics, Politics, Sociology </name>
+        <x_coord> 0.395 </x_coord>
+        <y_coord> 0.5071 </y_coord>
+        <gps_x> 55.873797 </gps_x>
+        <gps_y> -4.290001 </gps_y>
+    </building>
+    <building>
+        <id> D9 </id>
+        <name type="text"> Lillybank House, Economic and Social History </name>
+        <x_coord> 0.362 </x_coord>
+        <y_coord> 0.4957 </y_coord>
+        <gps_x> 55.874035 </gps_x>
+        <gps_y> -4.290473 </gps_y>
+    </building>
+    <building>
+        <id> D10 </id>
+        <name type="text"> Hetherington Building, School of Modern Languages and Cultures, French Language and Literature, German, Hispanic Studies, Italian, Language Centre and EFL Unit, Slavonic Studies </name>
+        <x_coord> 0.4431 </x_coord>
+        <y_coord> 0.4528 </y_coord>
+        <gps_x> 55.874182 </gps_x>
+        <gps_y> -4.288842 </gps_y>
+    </building>
+    <building>
+        <id> D11 </id>
+        <name type="text"> Library, Photographic Unit, Hillhead Street </name>
+        <x_coord> 0.4655 </x_coord>
+        <y_coord> 0.5299 </y_coord>
+        <gps_x> 55.873319 </gps_x>
+        <gps_y> -4.288612 </gps_y>
+    </building>
+    <building>
+        <id> D12 </id>
+        <name type="text"> Hunterian Art Gallery </name>
+        <x_coord> 0.436 </x_coord>
+        <y_coord> 0.559 </y_coord>
+        <gps_x> 55.873081 </gps_x>
+        <gps_y> -4.28955 </gps_y>
+    </building>
+    <building>
+        <id> D13 </id>
+        <name type="text"> Mackintosh House </name>
+        <x_coord> 0.4655 </x_coord>
+        <y_coord> 0.56 </y_coord>
+        <gps_x> 55.87303 </gps_x>
+        <gps_y> -4.289062 </gps_y>
+    </building>
+    <building>
+        <id> D14 </id>
+        <name type="text"> Accommodation Services, Residential Services, 73 Great George Street </name>
+        <x_coord> 0.4817 </x_coord>
+        <y_coord> 0.4385 </y_coord>
+        <gps_x> 55.8742 </gps_x>
+        <gps_y> -4.288102 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> School of Humanities (Student and Staff Support: 1 University Gdns) </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.872684 </gps_x>
+        <gps_y> -4.289341 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text">  History (Modern) - 1-2 University Gdns </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.872684 </gps_x>
+        <gps_y> -4.289341 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> School of Critical Studies - (Student and Staff Support: 5 University Gdns) and (Head of School Admin: 4 University Gdns) </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.872885 </gps_x>
+        <gps_y> -4.290039 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> English Literature - 4-5 University Gdns </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.872885 </gps_x>
+        <gps_y> -4.290039 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> History of Art - 7 University Gdns </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.872921 </gps_x>
+        <gps_y> -4.290194 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> Scottish Literature - 8 University Gdns </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.872921 </gps_x>
+        <gps_y> -4.290194 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> School of Culture and Creative Arts (Student and Staff Support: 8 University Gdns) </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.872921 </gps_x>
+        <gps_y> -4.290194 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> History (Scottish) - 9 University Gdns </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.872921 </gps_x>
+        <gps_y> -4.290194 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> History - 10 University Gdns </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.873252 </gps_x>
+        <gps_y> -4.29072 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> English Language - 12 University Gdns </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.873252 </gps_x>
+        <gps_y> -4.29072 </gps_y>
+    </building>
+    <building>
+        <id> D15 </id>
+        <name type="text"> Music - 14 University Gdns </name>
+        <x_coord> 0.4379 </x_coord>
+        <y_coord> 0.585 </y_coord>
+        <gps_x> 55.873252 </gps_x>
+        <gps_y> -4.29072 </gps_y>
+    </building>
+    <building>
+        <id> D16 </id>
+        <name type="text"> Central and East European Studies - 8-9 Lilybank Gdns </name>
+        <x_coord> 0.31 </x_coord>
+        <y_coord> 0.4714 </y_coord>
+        <gps_x> 55.874282 </gps_x>
+        <gps_y> -4.291771 </gps_y>
+    </building>
+    <building>
+        <id> D16 </id>
+        <name type="text"> School of Computing Science - 17 Lilybank Gdns </name>
+        <x_coord> 0.31 </x_coord>
+        <y_coord> 0.4714 </y_coord>
+        <gps_x> 55.874282 </gps_x>
+        <gps_y> -4.291771 </gps_y>
+    </building>
+    <building>
+        <id> D16 </id>
+        <name type="text"> MRC Social and Public Health Sciences Unit - 4-7 Lilybank Gdns </name>
+        <x_coord> 0.31 </x_coord>
+        <y_coord> 0.4714 </y_coord>
+        <gps_x> 55.874282 </gps_x>
+        <gps_y> -4.291771 </gps_y>
+    </building>
+    <building>
+        <id> D16 </id>
+        <name type="text"> Public Health - 1, 2 &amp; 3 Lilybank Gdns </name>
+        <x_coord> 0.31 </x_coord>
+        <y_coord> 0.4714 </y_coord>
+        <gps_x> 55.874282 </gps_x>
+        <gps_y> -4.291771 </gps_y>
+    </building>
+    <building>
+        <id> D17 </id>
+        <name type="text"> Urban Studies - 25 Bute Gdns </name>
+        <x_coord> 0.4048 </x_coord>
+        <y_coord> 0.4528 </y_coord>
+        <gps_x> 55.874327 </gps_x>
+        <gps_y> -4.289406 </gps_y>
+    </building>
+    <building>
+        <id> D18 </id>
+        <name type="text"> Institute of Neuroscience and Psychology, School of Psychology, Hillhead Street </name>
+        <x_coord> 0.4827 </x_coord>
+        <y_coord> 0.4657 </y_coord>
+        <gps_x> 55.873957 </gps_x>
+        <gps_y> -4.288199 </gps_y>
+    </building>
+    <building>
+        <id> D19 </id>
+        <name type="text"> Wildlife Garden </name>
+        <x_coord> 0.331 </x_coord>
+        <y_coord> 0.4928 </y_coord>
+        <gps_x> 55.874248 </gps_x>
+        <gps_y> -4.291331 </gps_y>
+    </building>
+    <building>
+        <id> D20 </id>
+        <name type="text"> Sir Alwyn Williams Building, School of Computing Science, </name>
+        <x_coord> 0.3017 </x_coord>
+        <y_coord> 0.5214 </y_coord>
+        <gps_x> 55.874035 </gps_x>
+        <gps_y> -4.292044 </gps_y>
+    </building>
+    <building>
+        <id> D21 </id>
+        <name type="text"> Nursery - 28 Hillhead Street </name>
+        <x_coord> 0.481 </x_coord>
+        <y_coord> 0.393 </y_coord>
+        <gps_x> 55.874772 </gps_x>
+        <gps_y> -4.287362 </gps_y>
+    </building>
+    <building>
+        <id> D22 </id>
+        <name type="text"> Centre for Cognitive Neuroimaging - 1 Bute Lane </name>
+        <x_coord> 0.4715 </x_coord>
+        <y_coord> 0.4857 </y_coord>
+        <gps_x> 55.873818 </gps_x>
+        <gps_y> -4.288698 </gps_y>
+    </building>
+    <building>
+        <id> E1 </id>
+        <name type="text"> McMillan Reading Room </name>
+        <x_coord> 0.5465 </x_coord>
+        <y_coord> 0.5685 </y_coord>
+        <gps_x> 55.872705 </gps_x>
+        <gps_y> -4.288006 </gps_y>
+    </building>
+    <building>
+        <id> E2 </id>
+        <name type="text"> Fraser Building, Careers Service, Recruitment and International Office, Registry, Student Services Enquiries Desk </name>
+        <x_coord> 0.5293 </x_coord>
+        <y_coord> 0.5385 </y_coord>
+        <gps_x> 55.873099 </gps_x>
+        <gps_y> -4.287871 </gps_y>
+    </building>
+    <building>
+        <id> E4 </id>
+        <name type="text"> Florentine House, College of Social Sciences </name>
+        <x_coord> 0.512 </x_coord>
+        <y_coord> 0.5071 </y_coord>
+        <gps_x> 55.873583 </gps_x>
+        <gps_y> -4.287947 </gps_y>
+    </building>
+    <building>
+        <id> E5 </id>
+        <name type="text"> Southpark House, Learning and Teaching Centre </name>
+        <x_coord> 0.5396 </x_coord>
+        <y_coord> 0.46 </y_coord>
+        <gps_x> 55.873845 </gps_x>
+        <gps_y> -4.287051 </gps_y>
+    </building>
+    <building>
+        <id> E6 </id>
+        <name type="text"> Stevenson Building, Sport and Recreation Service </name>
+        <x_coord> 0.6758 </x_coord>
+        <y_coord> 0.5085 </y_coord>
+        <gps_x> 55.872873 </gps_x>
+        <gps_y> -4.285345 </gps_y>
+    </building>
+    <building>
+        <id> E7 </id>
+        <name type="text"> Rankine Building, Civil Engineering,  </name>
+        <x_coord> 0.6758 </x_coord>
+        <y_coord> 0.5655 </y_coord>
+        <gps_x> 55.872479 </gps_x>
+        <gps_y> -4.285715 </gps_y>
+    </building>
+    <building>
+        <id> E8 </id>
+        <name type="text"> Glasgow University Union - 32 University Av </name>
+        <x_coord> 0.7068 </x_coord>
+        <y_coord> 0.566 </y_coord>
+        <gps_x> 55.87259 </gps_x>
+        <gps_y> -4.284921 </gps_y>
+    </building>
+    <building>
+        <id> E9 </id>
+        <name type="text"> Gilmorehill Centre, School of  Critical Studies (Theatre, Film and TV Studies) </name>
+        <x_coord> 0.7586 </x_coord>
+        <y_coord> 0.5671 </y_coord>
+        <gps_x> 55.871988 </gps_x>
+        <gps_y> -4.284476 </gps_y>
+    </building>
+    <building>
+        <id> E10 </id>
+        <name type="text"> Adam Smith Research Foundation - 66 Oakfield Ave </name>
+        <x_coord> 0.6758 </x_coord>
+        <y_coord> 0.4785 </y_coord>
+        <gps_x> 55.8733 </gps_x>
+        <gps_y> -4.285119 </gps_y>
+    </building>
+    <building>
+        <id> E10 </id>
+        <name type="text"> Classics - 65 Oakfield Av </name>
+        <x_coord> 0.6758 </x_coord>
+        <y_coord> 0.4785 </y_coord>
+        <gps_x> 55.8733 </gps_x>
+        <gps_y> -4.285119 </gps_y>
+    </building>
+    <building>
+        <id> E10 </id>
+        <name type="text"> Disability Service - 65 Southpark Av </name>
+        <x_coord> 0.6758 </x_coord>
+        <y_coord> 0.4785 </y_coord>
+        <gps_x> 55.8733 </gps_x>
+        <gps_y> -4.285119 </gps_y>
+    </building>
+    <building>
+        <id> E10 </id>
+        <name type="text"> Nursing and Health Care - 57-61 Oakfield Av </name>
+        <x_coord> 0.6758 </x_coord>
+        <y_coord> 0.4785 </y_coord>
+        <gps_x> 55.8733 </gps_x>
+        <gps_y> -4.285119 </gps_y>
+    </building>
+    <building>
+        <id> E10 </id>
+        <name type="text"> Occupational Health - 63 Oakfield Av </name>
+        <x_coord> 0.6758 </x_coord>
+        <y_coord> 0.4785 </y_coord>
+        <gps_x> 55.8733 </gps_x>
+        <gps_y> -4.285119 </gps_y>
+    </building>
+    <building>
+        <id> E10 </id>
+        <name type="text"> Philosophy - 67-69 Oakfield Av </name>
+        <x_coord> 0.6758 </x_coord>
+        <y_coord> 0.4785 </y_coord>
+        <gps_x> 55.8733 </gps_x>
+        <gps_y> -4.285119 </gps_y>
+    </building>
+    <building>
+        <id> E11 </id>
+        <name type="text"> Catholic Chaplaincy - 15 Southpark Terrace </name>
+        <x_coord> 0.5551 </x_coord>
+        <y_coord> 0.39 </y_coord>
+        <gps_x> 55.874643 </gps_x>
+        <gps_y> -4.286289 </gps_y>
+    </building>
+    <building>
+        <id> E12 </id>
+        <name type="text"> Student Counselling and Advisory Service - 65 Southpark Av </name>
+        <x_coord> 0.5982 </x_coord>
+        <y_coord> 0.5171 </y_coord>
+        <gps_x> 55.873177 </gps_x>
+        <gps_y> -4.286723 </gps_y>
+    </building>
+    <building>
+        <id> E13 </id>
+        <name type="text"> AMICUS, UCU, TGWU, UNISON - 68 Oakfield Av </name>
+        <x_coord> 0.6465 </x_coord>
+        <y_coord> 0.5285 </y_coord>
+        <gps_x> 55.872587 </gps_x>
+        <gps_y> -4.286208 </gps_y>
+    </building>
+    <building>
+        <id> E13 </id>
+        <name type="text"> Glasgow University Sports Association - 62 Oakfield Av </name>
+        <x_coord> 0.6465 </x_coord>
+        <y_coord> 0.5285 </y_coord>
+        <gps_x> 55.872587 </gps_x>
+        <gps_y> -4.286208 </gps_y>
+    </building>
+    <building>
+        <id> E13 </id>
+        <name type="text"> School of Humanities (Classics &amp; Philosophy) - 69 Oakfield Av </name>
+        <x_coord> 0.6465 </x_coord>
+        <y_coord> 0.5285 </y_coord>
+        <gps_x> 55.872587 </gps_x>
+        <gps_y> -4.286208 </gps_y>
+    </building>
+    <building>
+        <id> E14 </id>
+        <name type="text"> St Andrew's Building, School of Education, Adult and Continuing Education, Children's Panel Training Group, Robert Clark Centre for Technological Education - 11 Eldon St </name>
+        <x_coord> 0.9 </x_coord>
+        <y_coord> 0.51 </y_coord>
+        <gps_x> 55.871432 </gps_x>
+        <gps_y> -4.279256 </gps_y>
+    </building>
+    <building>
+        <id> E15 </id>
+        <name type="text"> Sir Charles Wilson Building - 1 University Av </name>
+        <x_coord> 0.767 </x_coord>
+        <y_coord> 0.5114 </y_coord>
+        <gps_x> 55.872608 </gps_x>
+        <gps_y> -4.284014 </gps_y>
+    </building>
+    <building>
+        <id> E16 </id>
+        <name type="text"> Sociology (Scottish Centre for Crime and Justice Research) - 63 Gibson St </name>
+        <x_coord> 0.641 </x_coord>
+        <y_coord> 0.5071 </y_coord>
+        <gps_x> 55.873156 </gps_x>
+        <gps_y> -4.28587 </gps_y>
+    </building>
+</list>

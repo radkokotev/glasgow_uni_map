@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Glasgow Uni Map</string>
+
+    <!-- Menu sections -->
+    <string name="menu_help">Help</string>
+        <!-- Help dialog strings -->
+        <string name="help_dialog_1_text">Enter (part of) the name of the place.\n</string>
+        <string name="help_dialog_1">1. Enter text in the field</string>
+        <string name="help_dialog_2">2. The \'Find\' button</string>
+        <string name="help_dialog_2_text">Press the button and select from the options below\n</string>
+        <string name="help_dialog_3">3. The map</string>
+        <string name="help_dialog_3_text">You now see the place you are interested in marked with a red circle. You can scroll the map if needed\n</string>
+        <string name="help_dialog_4">4. Google maps</string>
+        <string name="help_dialog_4_text">Press the \'menu\' button and select \'Show in Google maps\' to see the location in Google Maps\n</string>
+    <string name="menu_google_maps">Show in Google Maps</string>
+
+    <!-- Static messages -->
+    <string name="name_of_place">Name of Place</string>
+    <string name="no_matches_msg_text">No buildings with this name</string>
+    <string name="buildings_updated_toast">List of buildings is up to date</string>
+
+</resources>
